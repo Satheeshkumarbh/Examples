@@ -1,8 +1,14 @@
 object ScalaExample{
+def sub(a:Int,b:Int)
+{
+val d = a-b
+syttem.out.println(d)
+}
 def main(args:Array[String]){
-val a = 30
-val b = 40
-val c = a+b
+
+
+val c = 30
 system.out.println(c)
+
 }
 }

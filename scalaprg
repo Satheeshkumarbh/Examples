@@ -1,0 +1,8 @@
+object ScalaExample{
+def main(args:Array[String]){
+val a = 30
+val b = 40
+val c = a+b
+system.out.println(c)
+}
+}
